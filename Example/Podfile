@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AtomRouter_Example' do
+  pod 'AtomRouter', :path => '../'
+
+  target 'AtomRouter_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
