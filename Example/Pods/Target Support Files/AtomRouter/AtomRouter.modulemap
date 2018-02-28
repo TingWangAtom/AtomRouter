@@ -1,0 +1,6 @@
+framework module AtomRouter {
+  umbrella header "AtomRouter-umbrella.h"
+
+  export *
+  module * { export * }
+}

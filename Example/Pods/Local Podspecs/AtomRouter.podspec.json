@@ -1,0 +1,22 @@
+{
+  "name": "AtomRouter",
+  "version": "0.1.0",
+  "summary": "A short description of AtomRouter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/TingWangAtom/AtomRouter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "TingWangAtom": "18842642321@163.com"
+  },
+  "source": {
+    "git": "https://github.com/TingWangAtom/AtomRouter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AtomRouter/Classes/**/*"
+}
